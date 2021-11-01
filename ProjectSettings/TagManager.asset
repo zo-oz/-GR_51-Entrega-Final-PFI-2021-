@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BoardItem
+  - Ground
+  - Apple
+  - Cherry
+  - Lemon
+  - Pear
+  - Grapes
+  - Tomato
+  - Magnet
+  - Bubble
+  - Bomb
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Background Frame
+  - Player
+  - Magnet
+  - Popup
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1186852841
+    locked: 0
+  - name: BackgroundFrame
+    uniqueID: 4258853401
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2994601703
+    locked: 0
+  - name: TopLayer
+    uniqueID: 1401426721
+    locked: 0
